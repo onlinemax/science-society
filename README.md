@@ -13,7 +13,7 @@ This repository contains the source code for the Science Society website. We wel
 - Flask with Python
 
 ### Contributing
-1. Fork the repository.
+1. Clone the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
 4. Commit your changes (`git commit -m 'Add some feature'`).
